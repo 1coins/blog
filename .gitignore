@@ -1,0 +1,9 @@
+.idea/
+node_modules/
+dist/
+.DS_Store
+pnpm-lock.yaml
+.temp/
+.vp-temp/
+.cache/
+.vp-cache/
