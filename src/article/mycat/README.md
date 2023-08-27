@@ -5,10 +5,10 @@ pageInfo: ['Author', 'PageView']
 article: false
 timeline: false
 index: false
-permalink: /article/idea
+permalink: /article/mycat
 ---
 
-# 开发工具
-- [IDEA 注释模板](./idea-annotation-tempplate.md)
+# MyCat
+- [MyCat 总结](./mycat-summary.md)
 
 ---

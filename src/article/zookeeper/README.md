@@ -8,7 +8,7 @@ index: false
 permalink: /article/zookeeper
 ---
 
-# Nginx
-- [Nginx总结](./zookeeper-summary.md)
+# Zookeeper
+- [Zookeeper 总结](./zookeeper-summary.md)
 
 ---

@@ -5,10 +5,10 @@ pageInfo: ['Author', 'PageView']
 article: false
 timeline: false
 index: false
-permalink: /article/idea
+permalink: /article/markdown
 ---
 
-# 开发工具
-- [IDEA 注释模板](./idea-annotation-tempplate.md)
+# MarkDdown
+- [MarkDown 链接小卡片](./markdown-shields.md)
 
 ---

@@ -9,6 +9,6 @@ permalink: /article/nginx
 ---
 
 # Nginx
-- [Nginx总结](./nginx-summary.md)
+- [Nginx 总结](./nginx-summary.md)
 
 ---

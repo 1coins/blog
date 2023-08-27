@@ -5,10 +5,10 @@ pageInfo: ['Author', 'PageView']
 article: false
 timeline: false
 index: false
-permalink: /article/idea
+permalink: /article/object-oriented
 ---
 
-# 开发工具
-- [IDEA 注释模板](./idea-annotation-tempplate.md)
+# OOP
+- [面向对象设计的 SOLID 原则](./object-oriented-solid.md)
 
 ---

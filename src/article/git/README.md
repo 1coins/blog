@@ -5,10 +5,10 @@ pageInfo: ['Author', 'PageView']
 article: false
 timeline: false
 index: false
-permalink: /article/idea
+permalink: /article/git
 ---
 
-# 开发工具
-- [IDEA 注释模板](./idea-annotation-tempplate.md)
+# Git
+- [Git 总结](./git-summary.md)
 
 ---
