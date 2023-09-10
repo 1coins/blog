@@ -15,6 +15,6 @@ permalink: /favorite/photos
 
 :::
 
-- [必应壁纸 Api](./BingImgApi.md)
+- [必应壁纸 Api](./bing-img-api.md)
 
 ---
