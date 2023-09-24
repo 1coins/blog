@@ -46,7 +46,7 @@ tag:
 
 # 解决方案
 
-　　![](https://cdn.jsdelivr.net/gh/1coins/https://cdn.jsdelivr.net/gh/1coins/assets/redis-base/redis-scene.png)
+　　![](https://cdn.jsdelivr.net/gh/1coins/assets/redis-base/redis-scene.png)
 
 # Redis 简介
 
@@ -123,7 +123,7 @@ tag:
   help @组名
   ```
 
-　　![](https://cdn.jsdelivr.net/gh/1coins/assets/\redis-base/redis-command-help.png)
+　　![](https://cdn.jsdelivr.net/gh/1coins/assets/redis-base/redis-command-help.png)
 
 ## 退出客户端命令行模式
 

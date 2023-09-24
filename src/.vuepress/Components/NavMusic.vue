@@ -117,8 +117,8 @@ onMounted(() => {
 
   axios({
     method: 'get',
-    // url: '//file.mo7.cc/music/list.json',
-    url: '//cdn.jsdelivr.net/gh/1coins/assets/blog-music/list.json',
+    url: '//file.mo7.cc/music/list.json',
+    // url: '//cdn.jsdelivr.net/gh/1coins/assets/blog-music/list.json',
     params: {},
   }).then((response) => {
     var listData = response.data;
